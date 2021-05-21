@@ -1,0 +1,45 @@
+body
+{
+    background-color: aqua;
+    width: 500px;
+    margin: auto;
+    height: 400px;
+    text-align: center;
+
+
+}
+
+.content
+{
+    width: 500px;
+    overflow: hidden;
+}
+h1
+{
+    background-color: blue;
+    color: red;
+}
+.content .box
+{
+    float: left;
+}
+.content .box img
+{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.div img{
+    width: 400px;
+    height: 200px;
+    margin:auto;
+    margin-top: 40px;
+    cursor: pointer;
+}
+span 
+{
+   color: red;
+   cursor: pointer;
+}
